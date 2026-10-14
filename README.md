@@ -1,6 +1,3 @@
--- ZombieHitboxESP (LocalScript)
--- Location: StarterPlayer > StarterPlayerScripts
-
 local HITBOX_SIZE = 10
 
 -- Exact zombie names from your list (lowercase for matching)
